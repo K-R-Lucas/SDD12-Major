@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\Documents\C++\SDD12 Major\src\extras\raygui.h(1466,251): warning C5055: operator '==': deprecated between enumerations and floating-point types
+E:\Documents\C++\SDD12 Major\src\extras\raygui.h(1467,204): warning C5055: operator '==': deprecated between enumerations and floating-point types
+E:\Documents\C++\SDD12 Major\src\extras\raygui.h(2352,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Documents\C++\SDD12 Major\src\extras\raygui.h(2385,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\Documents\C++\SDD12 Major\src\extras\raygui.h(3059,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Documents\C++\SDD12 Major\src\extras\raygui.h(3060,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Documents\C++\SDD12 Major\src\extras\raygui.h(3061,109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Documents\C++\SDD12 Major\src\extras\raygui.h(3062,109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Documents\C++\SDD12 Major\src\extras\raygui.h(3063,109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Software Major - Basic Physics Engine.vcxproj -> E:\Documents\School\SDD\2022\Major Work Programming\Slightly Sketchy Physics Engine (SSPE)\x64\Debug\Software Major - Basic Physics Engine.exe

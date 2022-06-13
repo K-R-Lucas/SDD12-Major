@@ -1,0 +1,4 @@
+#pragma once
+#define _USE_MATH_DEFINES
+#define RAYGUI_IMPLEMENTATION
+#define _CRT_SECURE_NO_WARNINGS
