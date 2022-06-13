@@ -1,1 +1,0 @@
-# SDD12-Major
